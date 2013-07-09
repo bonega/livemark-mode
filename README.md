@@ -6,7 +6,8 @@ This is mostly a toy for Clojure/Emacs integration at the moment, maybe I will p
 
 ## Installation
 Depends on [leiningen](https://github.com/technomancy/leiningen).  
-place something like `(load "~/pathtodir/livemark/src/livemark/livemark")` in your `init.el`
+Do a `git clone git@github.com:bonega/livemark-mode.git`.  
+place something like `(load "~/pathtodir/livemark-mode/src/livemark-mode/livemark")` in your `init.el`
 
 ## Usage
 Open your markdown and execute `M-x: livemark-mode`  
